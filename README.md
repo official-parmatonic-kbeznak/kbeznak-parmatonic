@@ -1,6 +1,6 @@
 # kbeznak-parmatonic
 
-##Debunking kbeznak
+## Debunking kbeznak
 
 So if you are not a Texas A&M Student, who is wondering what the word 
 kbeznak parmatonic means.. well it means nothing. Literally! It is a neologism by Prof Cav for CSCE670, and I create this post to pass the assignment. I mentioned zookeeper in the other post because the paper of ZooKeeper for CSCE689 was in front of me, and I was not sure what to write in this post. Well you would be helping a grad student if by visiting
