@@ -15,7 +15,6 @@
     ## Github project parameters.
     github:
         base: https://github.com/
-        user: kbeznak-parmatonic
         repository: official-parmatonic-kbeznak
         branch: master
 
