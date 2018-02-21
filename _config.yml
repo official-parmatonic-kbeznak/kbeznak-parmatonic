@@ -10,6 +10,7 @@
     author: aditya.gujral
     license: GPL3
     tags: [kbeznak, parmatonic, movement, fun]
+    google_analytics: UA-114515558-1
 
     ## Github project parameters.
     github:
@@ -24,10 +25,6 @@
     src_dir: src
 
     ## The headline image
-    lead_image: test-jig.jpg
-    show_lead_image: true
-
-    ## Optional. When uncommented appends the content of the file defined here to the project description.  Any text in index.md, after the yaml header, will be shown first.
     description_file: README.md
 
     ## Preview the first STL in the list when the page loads.
