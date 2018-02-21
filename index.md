@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# kbeznak-parmatonic
-
 ## Debunking kbeznak
 
 So if you are not a Texas A&M Student, who is wondering what the word 
