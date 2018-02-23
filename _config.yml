@@ -31,4 +31,4 @@
 
     ## Show a github "fork me" ribbon in the top righthand corner of the page.
     show_forkme_ribbon: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
